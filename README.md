@@ -12,4 +12,9 @@
 7. remove stopwords
 
 - Vectorize train and test data using sklearn.feature_extraction.text. [TfidfVectorizer()]
-- Used SVM for prediction [svm.predict()] 
+
+- Used following ML models for prediction:
+1. SVM
+2. Multinomial Naive Bayes 
+3. Decision Tree Classifier
+4. Random Forest Classifier
