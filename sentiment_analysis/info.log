@@ -1,0 +1,20 @@
+INFO:root:get_train_data Ran with args: (), and kwargs: {}
+INFO:root:read_csv_file Ran with args: ('Corona_NLP_train.csv',), and kwargs: {}
+INFO:root:get_clean_data ran in: 88.3118040561676 sec
+INFO:root:get_test_data Ran with args: (), and kwargs: {}
+INFO:root:read_csv_file Ran with args: ('Corona_NLP_test.csv',), and kwargs: {}
+INFO:root:get_clean_data ran in: 8.83647108078003 sec
+INFO:root:implement_SVM_Using_TF_IDF ran in: 669.2258639335632 sec
+INFO:root:implement_Naive_Bayes_Using_TF_IDF ran in: 0.0150299072265625 sec
+INFO:root:implement_Decision_Tree_Using_TF_IDF ran in: 17.01743483543396 sec
+INFO:root:implement_Random_Forest_Using_TF_IDF ran in: 81.24456477165222 sec
+INFO:root:get_train_data Ran with args: (), and kwargs: {}
+INFO:root:read_csv_file Ran with args: ('Corona_NLP_train.csv',), and kwargs: {}
+INFO:root:get_clean_data ran in: 0.23259687423706055 sec
+INFO:root:get_test_data Ran with args: (), and kwargs: {}
+INFO:root:read_csv_file Ran with args: ('Corona_NLP_test.csv',), and kwargs: {}
+INFO:root:get_clean_data ran in: 0.044689178466796875 sec
+INFO:root:implement_SVM_Using_TF_IDF ran in: 0.007033109664916992 sec
+INFO:root:implement_Naive_Bayes_Using_TF_IDF ran in: 0.0011332035064697266 sec
+INFO:root:implement_Decision_Tree_Using_TF_IDF ran in: 0.0050013065338134766 sec
+INFO:root:implement_Random_Forest_Using_TF_IDF ran in: 0.07894396781921387 sec
