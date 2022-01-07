@@ -20,7 +20,7 @@
 4. Random Forest Classifier
 
 - Time and accurecy for ML models (No of tweets - Train data: 44955, Test data: 3798)
-1. SVM 58.0 %  669.2258639335632 sec
-2. NB 35.0 % 	 0.0150299072265625 sec
-3. DT 42.0 % 	 17.01743483543396 sec
-4. RF 49.0 % 	 81.24456477165222 sec
+1. SVM accurecy - 58.0% time - 669.2258639335632 sec
+2. NB accurecy - 35.0% time -	0.0150299072265625 sec
+3. DT accurecy - 42.0% time - 17.01743483543396 sec
+4. RF accurecy - 49.0% time - 81.24456477165222 sec
